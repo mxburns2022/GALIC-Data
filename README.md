@@ -11,7 +11,7 @@ Data for Fig. 5
 Data for Figs 6a and 6b.
 
 ## ibm_results_hartree_fock.pkl
-Data for IBM Hartree-Fock sampling. The important fields for each scheme ("FC", "QWC", "HEC", "GALIC") can be described as follows:
+A pickled Python dictionary containing data for IBM Hartree-Fock sampling. The important fields for each scheme ("FC", "QWC", "HEC", "GALIC") can be described as follows:
 
 * "results": a Qiskit BitArray containing the sampled results of a 600,000 shot-budget run.
 * "partitions": a list of operator groups
