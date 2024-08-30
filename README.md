@@ -1,5 +1,6 @@
 The CSV and pkl files contain the necessary data
-to reproduce the plots and tables reported in "GALIC: Hybrid Multi-Qubitwise Pauli Grouping for Quantum Computing Measurement". 
+to reproduce the plots and tables reported in "GALIC: Hybrid Multi-Qubitwise Pauli Grouping for Quantum Computing Measurement".  [![DOI](https://zenodo.org/badge/850105383.svg)](https://zenodo.org/doi/10.5281/zenodo.13621728)
+
 ## bias_fidelity.csv
 Data for Figure 2 & 3 and Table 4. Note that we only collected fidelity data for the $H_4$, 
 $H_6$, and $LiH$ for computational efficiency, missing values are denoted with -1. 
